@@ -2,8 +2,8 @@
 
 Kör main.ipynb
 
-**Program som finns inlagda**: 
-Physics 
+**Program som finns inlagda**:  
+Physics  
 CAS  
 EM  
 Data & AI  
